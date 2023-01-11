@@ -1,6 +1,6 @@
 {
     "name": "Family-MD",
-    "version": "2.4.0",
+    "version": "4.4.0",
     "description": "Simple Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
     "main": "index.js",
